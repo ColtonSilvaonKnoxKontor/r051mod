@@ -32,3 +32,5 @@ R051 modem has a very limited of usable storage space if you intended to install
 - [Communicating with Serial](/docs/serial.md)
 
 - [Forwarding Internet from ISP to Modem](/docs/forward.md)
+
+- [Recovery - For bricked R051](/docs/bricked.md)
