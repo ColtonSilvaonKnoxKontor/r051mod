@@ -15,7 +15,7 @@ Or else, the modem will be rendered useless; so take risk.
 
 - For serial communication, you need only one of these following:
   
-  1 USB to TTL serial adapter to be plugged in to usb port of your PC, the very cheapest of all.
+  1. USB to TTL serial adapter to be plugged in to usb port of your PC, the very cheapest of all.
 
   2. Single Board Computers with GPIO pins, any model and brands (RPi, OPi, Banana Pi, LubanCat , etc).
 
