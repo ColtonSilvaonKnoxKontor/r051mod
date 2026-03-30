@@ -36,6 +36,6 @@ R051 also let's you access the internal system via SSH (if available) and Telnet
 
 - [Communicating with Serial](/docs/serial.md)
 
-- [Forwarding Internet from ISP to Modem (Middleman)](/docs/forward.md)
+- [Forwarding Internet from ISP to R051 Unit (Middleman)](/docs/forward.md)
 
 - [Recovery - For bricked R051](/docs/bricked.md)
