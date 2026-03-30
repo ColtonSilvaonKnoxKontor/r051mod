@@ -27,6 +27,11 @@ Or else, the modem will be rendered useless; so take risk.
 
 R051 modem has a very limited of usable storage space if you intended to install additional programs within R051 modem as it has only `1.4MB` of total space, and it used about more than `300k` with original firmware installed. So basically you have to install what you only need.
 
+# SSH/Telnet Access
+
+R051 also let's you access the internal system via SSH (if available) and Telnet, but only if the R051 is not bricked. The usual credential is:
+`root` and a password `$Passworld143`
+
 # Sections
 
 - [Communicating with Serial](/docs/serial.md)
